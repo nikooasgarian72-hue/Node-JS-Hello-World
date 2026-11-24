@@ -1,4 +1,4 @@
-# Sample Express
+# Node.js Hello World
 
 A simple Express.js server using Node.js.
 
